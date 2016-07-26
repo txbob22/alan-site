@@ -1,0 +1,20 @@
+{
+  "name": "alan-site",
+  "version": "1.0.0",
+  "description": "Making improvements on this:\r http://alancardon8.wixsite.com/aphug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txbob22/alan-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/txbob22/alan-site/issues"
+  },
+  "homepage": "https://github.com/txbob22/alan-site#readme"
+}

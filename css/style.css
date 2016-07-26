@@ -1,19 +1,110 @@
 * {
-	margin: 0 auto;
-	box-sizing: border-box;
+    margin: 0 auto;
+    box-sizing: border-box;
 }
 
 .jumbotron {
-	background-image: url('../img/geography2.jpg');
-	background-size: 100%;
-	height: 100vh;
+    background-image: url('../img/geography2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+}
+
+.navbar-default {
+    background-color: #60594D;
+    color: white;
 }
 
 .navbar {
-	margin-bottom: 0px;
+    margin-bottom: 0px;
 }
 
-.jumbotron .container{
-	padding: 25vh;
-	color: white;
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+    color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.nav>li>a:focus,
+.nav>li>a:hover {
+    color: white;
+}
+
+.container {
+    width: 100%;
+    padding: 0px;
+}
+
+.container .jumbotron {
+    border-radius: 0px;
+    height: 100vh;
+    margin-bottom: 0px;
+}
+
+.jumbotron .container {
+    padding: 25vh;
+    color: white;
+}
+
+.about {
+    min-height: 100vh;
+}
+
+.about-left {
+    padding: 20px;
+    background-color: #8B635C;
+    border: 20px solid white;
+    color: white;
+}
+
+.about-center {
+    padding: 20px;
+    background-color: #93A29B;
+    border: 20px solid white;
+    color: white;
+}
+
+.about-right {
+    padding: 20px;
+    background-color: #60594D;
+    border: 20px solid white;
+    color: white;
+}
+
+.space {
+    margin-top: 20px;
+}
+
+footer {
+    height: 30vh;
+    color: white;
+    background-color: #93A29B;
+}
+
+footer h2 {
+    padding-top: 35px;
+}
+
+footer a {
+    color: white;
+}
+
+footer h4 {
+    padding-top: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .jumbotron {
+        background-image: url('../img/geography2.jpg');
+        background-repeat: no-repeat;
+        background-size: 100%;
+        height: 100vh;
+    }
 }
