@@ -36,12 +36,15 @@
 }
 
 .jumbotron {
-    background-image: url('../img/river.jpg');
+    background-image: url('../img/geography2.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     height: 100vh;
     padding: 0px;
 }
+
+/*add extra background images here! */
+
 
 .jumbo-image {
     width: 100%;
@@ -92,21 +95,21 @@
     margin-top: 20px;
 }
 
-footer {
+.info {
     height: 30vh;
     color: white;
     background-color: #93A29B;
 }
 
-footer h2 {
+.info h2 {
     padding-top: 35px;
 }
 
-footer a {
+.info a {
     color: white;
 }
 
-footer h4 {
+.info h4 {
     padding-top: 20px;
 }
 
