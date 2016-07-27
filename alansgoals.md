@@ -21,23 +21,18 @@ keep it as free as possible.
 
 need a clickable link to approved email (district)
 
+calendar link
 
 the ability to build out pages and create 
 
 # today
 
-build out a homepage
-	build out where links go
 
 
-subject matter buttons
-	13 chapters
-	7 units
+THINGS I NEED FROM ALAN:
+Google Information
 
-calendar link
+Things I need to do:
 
-Subject Matter 
-	Simple Page Mark up
+build out a thumbnail gallery
 
-HOMEPAGE:
-	copy writing in the about section
